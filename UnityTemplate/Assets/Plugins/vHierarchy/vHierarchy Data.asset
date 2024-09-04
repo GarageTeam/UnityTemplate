@@ -1,0 +1,756 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9752b0c8e144801967e6897679604b, type: 3}
+  m_Name: vHierarchy Data
+  m_EditorClassIdentifier: 
+  sceneDatas_byGuid:
+    keys:
+    - 99c9720ab356a0642a771bea13969a05
+    - cba6250340043df42947e769daa369e6
+    - 95e24e5702a541e4690a8903a6465ce5
+    - 2cda990e2423bbf4892e6590ba056729
+    values:
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-330585543-0
+        - globalObjectIdString: GlobalObjectId_V1-2-99c9720ab356a0642a771bea13969a05-410087039-0
+        values:
+        - colorIndex: 7
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 3
+          iconNameOrGuid: DirectionalLight Icon
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-260801135-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-510214762-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1877444466-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-400070937-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-545507921-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1002516632-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-908768047-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1882550094-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-676444970-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-894329489-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1115672793-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1685034194-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1959814031-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-672803675-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1745038050-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1016814195-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1999440353-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1326925402-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1102757450-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1473588552-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-992666584-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-272064086-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1430683654-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-716836585-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-827865232-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-761441309-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-827753045-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1771863193-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-468693147-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1097264324-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-755541017-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1863675948-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2051111809-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-839866801-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1966828758-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-843808424-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1407763744-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-117445568-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-607059298-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-921867773-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1401558123-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1988069013-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-661198821-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-899975278-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1010034624-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-662998197-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-774219518-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-32001516-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1491439016-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-664178135-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-11553035-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1743422597-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-30747564-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1438923671-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2111219232-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1718406215-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-405378749-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-550758531-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-985830780-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-663646591-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1972993710-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1252092398-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1270588413-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1007921990-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2017977451-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-424977725-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1695229718-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-843036008-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-830608861-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1498033762-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1957376520-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1861814629-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1470342422-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2029921396-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-999044412-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1845209440-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1109652752-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-204522417-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2088820935-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1376039973-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-106387703-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2121973053-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2086614355-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1681300698-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-13668163-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1167819080-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-621771699-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1904344343-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1668509092-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-718826686-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1877903535-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-74827986-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-474421224-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-455280756-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1426950177-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1031156566-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-844117211-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1668524703-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1871960248-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1541483239-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-894256810-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-246670613-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1805954395-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-308162376-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2048829338-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-150681588-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-171292157-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-789687818-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1517710093-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-568120799-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1233783108-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1823171671-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-42580818-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-124897189-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2062217566-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1863441339-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7378502631073201941-1092452811
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1524050416504474861-1966076909
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7353109920497234480-3945769227235840619
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1036461471195294880-2872492830755721371
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1337864316034403768-8263743437238008421
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2064553113-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7341954039073861505-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7089510003835493130-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7809347917969252054-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1381471777330940028-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5966640891980723019-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-114209170090083556-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3517935953077134398-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7437225330752110573-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2708533366917048337-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6100123265405855600-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8319593390745405254-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1774015937879304540-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3765002473086237164-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8721772081266641466-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3369672460960311506-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-9163583501836941503-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3327542428764308920-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8713025982974844848-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6008269258187081740-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5419454704847336596-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6038232189457030644-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-9164351334617754087-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6369848146693841301-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6745982877246791639-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5408911452286199143-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1239030708425910480-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5286933252255464681-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4308651438864870567-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1877160519642392757-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-931930295707521569-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7089067523123309783-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-430219969617248942-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4021640260980427921-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3146345917039724498-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7823406097360540867-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5943740013356013694-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4504411480619488832-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2816534688607332271-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7539454886757548132-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2378866763826924695-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5209728667803792861-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4332708382184449794-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7407880044097249429-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3593024362831566431-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7637905205554051072-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6346144724049480913-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4865764938300377922-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1343283275616308669-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6212031076471511957-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8965568933038656943-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8120646285306444143-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4928563853852201897-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1967606035343038655-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8953366791526851856-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4170665604868540466-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6190453642789645220-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-360997709922826249-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4475236690755610730-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-641433212703255147-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2435029702665162461-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8703517514580286069-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6663389227721991259-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8097314303651805350-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3589174210068414537-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6424623491219271700-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2019324938897287812-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4535749926185132898-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-619732869537874369-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5506383158412737528-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5534655077980936595-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7506778412153260282-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6055782349166202443-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3081260730603995763-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-256199860749635663-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6949399763722130750-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8267097266762618271-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8298927305418826640-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-9102443045816080713-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-529453039859088531-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2690347097149131704-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8835422757706651683-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1360713406481387032-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4372435473229236961-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5068214473093440628-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4071840723039475037-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4597305022543482055-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-9061352738974823252-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6952293252622345618-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3180544854316422778-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6865410650420773203-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2298296488729443778-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2422843377126718685-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-901841230046504303-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4931340697729525513-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7787533686065955546-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-4619815428561519229-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7639603815407959871-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-8067226538112914211-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5697194234429045827-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-890574670198396537-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3865121370747060264-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-101786433107310295-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1050528027-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-2109018640-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-6935466866906216413-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-3008234358054353979-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-5821270542424744027-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-7378502629983960798-0
+        - globalObjectIdString: GlobalObjectId_V1-2-cba6250340043df42947e769daa369e6-1524050415080374016-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: Folder Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 7
+          iconNameOrGuid: d_SaveAs@2x
+        - colorIndex: 3
+          iconNameOrGuid: EventSystem Icon
+        - colorIndex: 5
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_VerticalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Toggle Icon
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Toggle Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_VerticalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_SaveAs@2x
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: cs Script Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_VerticalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Slider Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: a7ec9e7ad8b847b7ae4510af83c5d868
+        - colorIndex: 0
+          iconNameOrGuid: d_Toggle Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Toggle Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Button Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_HorizontalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_VerticalLayoutGroup Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_winbtn_win_max@2x
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 0
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 7
+          iconNameOrGuid: d_SaveAs@2x
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-3123060570718190490-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-6513909852686857467-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-9058095278352815309-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-1634205576-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-2017251051-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-625245642-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-1253869556-0
+        - globalObjectIdString: GlobalObjectId_V1-2-95e24e5702a541e4690a8903a6465ce5-1190502778-0
+        values:
+        - colorIndex: 0
+          iconNameOrGuid: Canvas Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: d_Image Icon
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 0
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 0
+          iconNameOrGuid: 2fd6421f253b4ef1a19526541f9ffc0c
+    - goDatas_byGlobalId:
+        keys: []
+        values: []
